@@ -1,0 +1,25 @@
+.about {
+  text-align: center;
+  font-size: 2rem;
+}
+
+#add {
+  font-size: 1.3rem;
+  margin: 0 20% auto;
+  margin-top: 0;
+}
+
+#copy {
+  font-size: 2rem;
+}
+
+@media (max-width: 760px) {
+  .about {
+    font-size: 1.5rem;
+  }
+}
+
+.sites {
+  height: 250px;
+}
+
